@@ -4,7 +4,7 @@ Multithreaded status bar for dwm.
 
 ## Configure
 
-`config.hpp`
+Add scripts to `config.hpp`
 
 ## Install
 
